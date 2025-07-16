@@ -1,0 +1,11 @@
+{
+  "name": "Tự Hào",
+  "description": "This is description for Tự Hào",
+  "image": "https://media.beincom.com/image/variants/article/cover/2c1a290b-81b1-4ad9-b9da-dd9e3c42cb9e",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
