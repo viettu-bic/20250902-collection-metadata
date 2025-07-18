@@ -1,11 +1,10 @@
 {
-  "name": "Tự Hào",
-  "description": "This is description for Tự Hào",
-  "image": "https://media.beincom.com/image/variants/article/cover/2c1a290b-81b1-4ad9-b9da-dd9e3c42cb9e",
+  "name": "Hào Khí Việt – Common",
+  "description": "Phiên bản Common trong bộ sưu tập Hào Khí Việt 2/9.",
+  "image": "/common.png",
   "attributes": [
-    {
-      "trait_type": "Rarity",
-      "value": "Common"
-    }
+    { "trait_type": "Rarity",  "value": "Common" },
+    { "trait_type": "Edition", "value": "2025" },
+    { "trait_type": "Theme",   "value": "Vietnam National Day" }
   ]
 }

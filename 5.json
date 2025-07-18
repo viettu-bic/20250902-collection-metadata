@@ -1,0 +1,10 @@
+{
+  "name": "Hào Khí Việt – Legendary",
+  "description": "Phiên bản Legendary hiếm nhất của bộ Hào Khí Việt 2/9.",
+  "image": "/legendary.png",
+  "attributes": [
+    { "trait_type": "Rarity",  "value": "Legendary" },
+    { "trait_type": "Edition", "value": "2025" },
+    { "trait_type": "Theme",   "value": "Vietnam National Day" }
+  ]
+}

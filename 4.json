@@ -1,0 +1,10 @@
+{
+  "name": "Hào Khí Việt – Epic",
+  "description": "Tác phẩm Epic biểu trưng cho tinh thần đoàn kết Việt Nam.",
+  "image": "/epic.png",
+  "attributes": [
+    { "trait_type": "Rarity",  "value": "Epic" },
+    { "trait_type": "Edition", "value": "2025" },
+    { "trait_type": "Theme",   "value": "Vietnam National Day" }
+  ]
+}

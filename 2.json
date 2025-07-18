@@ -1,0 +1,10 @@
+{
+  "name": "Hào Khí Việt – Uncommon",
+  "description": "Phiên bản Uncommon, thiết kế nổi bật hơn trong bộ Hào Khí Việt 2/9.",
+  "image": "/uncommon.png",
+  "attributes": [
+    { "trait_type": "Rarity",  "value": "Uncommon" },
+    { "trait_type": "Edition", "value": "2025" },
+    { "trait_type": "Theme",   "value": "Vietnam National Day" }
+  ]
+}

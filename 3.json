@@ -1,0 +1,10 @@
+{
+  "name": "Hào Khí Việt – Rare",
+  "description": "Phiên bản Rare với chi tiết tinh xảo trong bộ Hào Khí Việt 2/9.",
+  "image": "/rare.png",
+  "attributes": [
+    { "trait_type": "Rarity",  "value": "Rare" },
+    { "trait_type": "Edition", "value": "2025" },
+    { "trait_type": "Theme",   "value": "Vietnam National Day" }
+  ]
+}
