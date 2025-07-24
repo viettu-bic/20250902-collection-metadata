@@ -1,7 +1,7 @@
 {
-  "name": "Hào Khí Việt – Uncommon",
-  "description": "Phiên bản Uncommon, thiết kế nổi bật hơn trong bộ Hào Khí Việt 2/9.",
-  "image": "/uncommon.png",
+  "name": "The Red of Glory",
+  "description": "The red flag with a yellow star flying high after the goal — a proud moment for the Vietnamese nation. The NFT ‘The Red of Glory’ preserves that moment forever.",
+  "image": "https://media.beincom.com/image/variants/article/cover/6e942374-783f-4025-a1fd-335e44cdbbf9",
   "attributes": [
     { "trait_type": "Rarity",  "value": "Uncommon" },
     { "trait_type": "Edition", "value": "2025" },

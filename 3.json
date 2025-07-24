@@ -1,7 +1,7 @@
 {
-  "name": "Hào Khí Việt – Rare",
-  "description": "Phiên bản Rare với chi tiết tinh xảo trong bộ Hào Khí Việt 2/9.",
-  "image": "/rare.png",
+  "name": "Red Tiled Roof",
+  "description": "The flag on the porch recalls our homeland — where we grew up, where memories live on. It inspired the “Red Tiled Roof” NFT, reviving memories in the digital world.",
+  "image": "https://media.beincom.com/image/variants/article/cover/38393d59-4868-4671-b973-033dc784b4f9",
   "attributes": [
     { "trait_type": "Rarity",  "value": "Rare" },
     { "trait_type": "Edition", "value": "2025" },
