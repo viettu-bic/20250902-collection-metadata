@@ -1,7 +1,7 @@
 {
-  "name": "Hào Khí Việt – Common",
-  "description": "Phiên bản Common trong bộ sưu tập Hào Khí Việt 2/9.",
-  "image": "/common.png",
+  "name": "Rising Strong",
+  "description": "The red flag with a yellow star reflects Vietnam’s rising spirit. The \"Rising Strong\" NFT captures that enduring pride in the digital space.",
+  "image": "https://media.beincom.com/image/variants/article/cover/cf588b59-62b8-4a0f-b6f2-c76d62fcde44",
   "attributes": [
     { "trait_type": "Rarity",  "value": "Common" },
     { "trait_type": "Edition", "value": "2025" },
