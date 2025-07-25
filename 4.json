@@ -1,7 +1,7 @@
 {
   "name": "Tender Bud",
   "description": "The homeland starts with a child’s clear eyes and tiny hand holding the flag. “Tender Bud” NFT symbolizes a generation that preserves and continues national values.",
-  "image": "https://media.beincom.com/image/variants/article/cover/b81b926b-b988-4c4d-944b-2f9b4d916d30",
+  "image": "https://raw.githubusercontent.com/viettu-bic/20250902-collection-metadata/refs/heads/main/img/4.png",
   "attributes": [
     { "trait_type": "Rarity",  "value": "Epic" },
     { "trait_type": "Edition", "value": "2025" },

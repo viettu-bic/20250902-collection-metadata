@@ -1,7 +1,7 @@
 {
   "name": "Chủ Quyền",
   "description": "Amid the vast ocean, the red flag with a golden star flies proudly. The “Sovereignty” NFT honors national pride and pays tribute to those safeguarding Vietnam’s sovereignty.",
-  "image": "https://media.beincom.com/image/variants/article/cover/097c4d24-f7ce-487d-9124-570733fc66a0",
+  "image": "https://raw.githubusercontent.com/viettu-bic/20250902-collection-metadata/refs/heads/main/img/5.png",
   "attributes": [
     { "trait_type": "Rarity",  "value": "Legendary" },
     { "trait_type": "Edition", "value": "2025" },
